@@ -1,0 +1,8 @@
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\bin\Debug\getprc.exe.config
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\bin\Debug\getprc.exe
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\bin\Debug\getprc.pdb
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\obj\Debug\getprc.csprojResolveAssemblyReference.cache
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\obj\Debug\getprc.exe
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\obj\Debug\getprc.pdb
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\obj\Debug\getprc.Properties.Resources.resources
+c:\users\maciej\documents\visual studio 2017\Projects\getprc\getprc\obj\Debug\getprc.csproj.GenerateResource.Cache
